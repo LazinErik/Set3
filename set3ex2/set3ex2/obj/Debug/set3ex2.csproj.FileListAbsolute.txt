@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set3ex2\set3ex2\obj\Debug\set3ex2.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set3ex2\set3ex2\obj\Debug\set3ex2.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set3ex2\set3ex2\bin\Debug\set3ex2.exe.config
+D:\Facultate\Programare\set3ex2\set3ex2\bin\Debug\set3ex2.exe
+D:\Facultate\Programare\set3ex2\set3ex2\bin\Debug\set3ex2.pdb
+D:\Facultate\Programare\set3ex2\set3ex2\obj\Debug\set3ex2.exe
+D:\Facultate\Programare\set3ex2\set3ex2\obj\Debug\set3ex2.pdb
